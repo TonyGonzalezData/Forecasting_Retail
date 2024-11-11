@@ -1,6 +1,6 @@
 # Forecasting_Retail
 
-Creation of a predictive mMachine learning model aimed at forecasting sales for the next 8 days at the store-product level.
+Creation of a predictive Machine learning model aimed at forecasting sales for the next 8 days at the store-product level.
 
 ## Objective
 
