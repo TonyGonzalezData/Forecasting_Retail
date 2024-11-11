@@ -30,8 +30,8 @@ The development of the Discovery project consists of the following structure:
 - **EDA**: Exploraty data analysis of both categorical and numerical variables
 - **Data transforation**: Creation of new variables and encoding of categorical variables. 
 - **Variable preselection**: We select the most predictive variables. To do this, we choose the most reliable result among those obtained through the methods of Mutual Information, Recursive Feature Elimination, and Permutation Importance.
--**Modeling for regression**: We test the modeling process by first applying it to a single product. Then, we test the process on the entire set and verify that the results align with expectations.
--**Preparation of production code**: we combine all previously developed code, including the modeling, and make it ready for deployment.
+- **Modeling for regression**: We test the modeling process by first applying it to a single product. Then, we test the process on the entire set and verify that the results align with expectations.
+- **Preparation of production code**: we combine all previously developed code, including the modeling, and make it ready for deployment.
 
 ## Highlights
 
